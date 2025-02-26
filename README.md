@@ -1,0 +1,1 @@
+This is a repo where I gonna test how  GH branch protection rules are working
