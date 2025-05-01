@@ -12,5 +12,8 @@ public class MainClass {
     System.out.println("Bye again, World!");
 
     System.out.println("Hi again, World!");
+    System.out.println("Hi again, World!");
+    System.out.println("Hi again, World!");
+    System.out.println("Hi again, World!");
   }
 }
