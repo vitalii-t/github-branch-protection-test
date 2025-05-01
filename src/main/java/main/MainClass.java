@@ -5,8 +5,9 @@ public class MainClass {
   public static void main(String[] args) {
     System.out.println("Hello World!");
     System.out.println("Good Bye, World!");
-    System.out.println("Hello again, World!");
-    System.out.println("Bye again, World!");
     System.out.println("Hi again, World!");
+    System.out.println("Good Bye, World!");
+    System.out.println("Good Bye, World!");
+    System.out.println("Good Bye, World!");
   }
 }
